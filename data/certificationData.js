@@ -24,6 +24,24 @@ export const certificationData = {
       confirmationLink:
         "https://www.credly.com/badges/8b28bb47-aaa5-4986-872b-afa51fe70bd0/",
     },
+    {
+      title: "Certified Partner Specialist Gemini Enterprise Agent Development",
+      img: "./assets/certificate/gemini_agent-removebg-preview.png",
+      subtitle:
+        "Certified Partner Specialist: Gemini Enterprise Agent Development certification",
+      link: "https://www.credly.com/badges/a490b94c-448e-4969-8cd2-4de707102a45",
+      confirmationLink:
+        "https://images.credly.com/size/340x340/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob",
+    },
+    {
+      title: "OpenAI Cyber Solutions Practitioner",
+      img: "./assets/certificate/openai.png",
+      subtitle:
+        "Recognizes the ability to position, qualify, and safely route authorized defensive cyber opportunities to appropriate workflows and access paths.",
+      link: "https://oaipartnernetwork.credential.net/ba85e935-087d-4600-83cb-88a923e4f349#acc.C8qLYj6o",
+      confirmationLink:
+        "https://oaipartnernetwork.credential.net/ba85e935-087d-4600-83cb-88a923e4f349#acc.C8qLYj6o",
+    },
   ],
   Cloud: [
     {
@@ -49,6 +67,15 @@ export const certificationData = {
       link: "https://developer.hashicorp.com/certifications/infrastructure-automation",
       confirmationLink:
         "https://www.credly.com/badges/e3db2831-b81c-46a7-84b0-dbcb48e87883",
+    },
+    {
+      title: "Gemini Enterprise Deployment",
+      img: "./assets/certificate/gemini_deployment_cert.png",
+      subtitle:
+        "The Certified Partner Specialist Gemini Enterprise Deployment ",
+      link: "https://www.credly.com/badges/1753c157-dec1-4b03-a80d-67b43af68a4a",
+      confirmationLink:
+        "https://images.credly.com/size/340x340/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob",
     },
   ],
 };
