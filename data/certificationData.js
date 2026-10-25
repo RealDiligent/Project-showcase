@@ -25,23 +25,21 @@ export const certificationData = {
         "https://www.credly.com/badges/8b28bb47-aaa5-4986-872b-afa51fe70bd0/",
     },
     {
-      title:
-        "Certified Partner Specialist: Gemini Enterprise Agent Development",
+      title: "Gemini Enterprise Agent Development",
       img: "./assets/certificate/gemini_agent_development.png",
       subtitle:
-        "Certified Partner Specialist: Gemini Enterprise Agent Development certification",
+        "Certified Partner Specialist: Gemini Enterprise Agent Development",
       link: "https://rsvp.withgoogle.com/events/partner-learning/cps",
       confirmationLink:
-        "https://rsvp.withgoogle.com/events/partner-learning/cps",
+        "https://www.credly.com/badges/a490b94c-448e-4969-8cd2-4de707102a45",
     },
     {
       title: "OpenAI Cyber Solutions Practitioner",
-      img: "./assets/certificate/openai_cyber_solutions_practitioner.png",
-      subtitle:
-        "Recognizes the ability to position, qualify, and safely route authorized defensive cyber opportunities to appropriate workflows and access paths.",
+      img: "./assets/certificate/openai_cyber_solutions_practitioner.webp",
+      subtitle: "OpenAI Partner Network: Cyber Solutions Practitioner",
       link: "https://openai.com/business/partners/",
       confirmationLink:
-        "https://oaipartnernetwork.credential.net/ba85e935-087d-4600-83cb-88a923e4f349#acc.C8qLYj6o",
+        "https://oaipartnernetwork.credential.net/ba85e935-087d-4600-83cb-88a923e4f349",
     },
   ],
   Cloud: [
@@ -72,11 +70,10 @@ export const certificationData = {
     {
       title: "Gemini Enterprise Deployment",
       img: "./assets/certificate/gemini_deployment_cert.png",
-      subtitle:
-        "The Certified Partner Specialist Gemini Enterprise Deployment ",
+      subtitle: "Certified Partner Specialist: Gemini Enterprise Deployment",
       link: "https://rsvp.withgoogle.com/events/partner-learning/cps",
       confirmationLink:
-        "https://rsvp.withgoogle.com/events/partner-learning/cps",
+        "https://www.credly.com/badges/1753c157-dec1-4b03-a80d-67b43af68a4a",
     },
   ],
 };
